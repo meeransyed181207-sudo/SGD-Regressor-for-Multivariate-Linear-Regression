@@ -11,8 +11,7 @@ To write a program to predict the price of the house and number of occupants in 
 1. Load the dataset and select features.
 2. Split data into training and testing sets.
 3. Scale the input features.
-4. Train the multi-output regression model.
-5. Predict outputs and calculate error.
+4. Train the multi-output regression model
 
 ## Program:
 ```
